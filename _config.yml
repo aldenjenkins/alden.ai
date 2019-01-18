@@ -71,7 +71,7 @@ github_username:  aldenjenks
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
