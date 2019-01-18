@@ -1,4 +1,5 @@
 ---
+layout: none
 permalink: /tutorial/non_linear_regression
 ---
 <html>

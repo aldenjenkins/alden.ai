@@ -1,4 +1,5 @@
 ---
+layout: none
 permalink: /tutorial/multivariate_linear_regression
 ---
 <html>

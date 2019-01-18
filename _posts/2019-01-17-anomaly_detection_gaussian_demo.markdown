@@ -1,4 +1,5 @@
 ---
+layout: none
 permalink: /tutorial/anomaly_detection_gaussian
 ---
 <html>

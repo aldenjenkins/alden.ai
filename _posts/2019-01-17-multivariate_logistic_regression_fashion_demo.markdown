@@ -1,4 +1,5 @@
 ---
+layout: none
 permalink: /tutorial/multivariate_logistic_regression_fashion
 ---
 <html>

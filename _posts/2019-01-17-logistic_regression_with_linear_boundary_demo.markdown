@@ -1,4 +1,5 @@
 ---
+layout: none
 permalink: /tutorial/logistic_regression_with_linear_boundary
 ---
 <html>

@@ -1,4 +1,5 @@
 ---
+layout: none
 permalink: /tutorial/univariate_linear_regression
 ---
 <html>

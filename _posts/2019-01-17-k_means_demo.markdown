@@ -1,4 +1,5 @@
 ---
+layout: none
 permalink: /tutorial/k_means
 ---
 <html>

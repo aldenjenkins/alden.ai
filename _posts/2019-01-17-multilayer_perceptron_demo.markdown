@@ -1,4 +1,5 @@
 ---
+layout: none
 permalink: /tutorial/multilayer_perceptron
 ---
 <html>
